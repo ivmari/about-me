@@ -3,4 +3,5 @@
 
 Иностранные языки: английский язык B1 — Intermediate
 
-<img src="Обо мне/image.jpg" alt="Цитата">
+![цитата](https://github.com/ivmari/about-me/blob/main/image.jpg?raw=true)
+
